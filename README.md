@@ -1,2 +1,3 @@
 # PlaywrightTypescript_19Nov
-Playwright TypescriptFramework
+Playwright TypescriptFramework description
+Author -Akanksha Singh
